@@ -4,5 +4,5 @@ a betterdiscord original theme stash, by <img src="https://avatars1.githubuserco
 </p>
 #Navigation
 <p>
-* <a href=".. Dracula/">Ant Dracula (Blue) Theme</a>
+* <a href="https://github.com/parkcitymedia/bdthemes/tree/master/Dracula">Ant Dracula (Blue) Theme</a>
 </p>
